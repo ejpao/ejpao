@@ -27,6 +27,6 @@ I'm focused on **building real projects, expanding my technical skills, and deve
 
 ---
 
-📫 **Contact:** [Professional Email / LinkedIn]
+📫 **Contact:** [elpaop01@wsc.edu]
 
 ⭐ Thanks for visiting my profile!
