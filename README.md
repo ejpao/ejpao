@@ -2,13 +2,13 @@
 
 College Student | Aspiring Computer Science Major
 
-I'm a college student interested in technology, programming, problem-solving, and creative projects. I'm currently building my skills through coursework, personal projects, and hands-on experimentation. 
+I'm a college student interested in technology, programming, problem solving, and creative projects. I'm currently building my skills through coursework, personal projects, and hands-on experimentation. When not working with technology, I enjoy writing and staying active through physical and mental exercise. 
 
 ## Skills
 
-* **Languages:** [Python, C++]
+* **Languages:** Python, C++
 * **Tools:** Git, GitHub
-* **Currently Learning:** [Networking, Fictional Short Story Editing]
+* **Currently Learning:** Networking, Fictional Short Story Editing
 * **Other:** Problem-solving, teamwork, communication, creative thinking
 
 ## Interests
