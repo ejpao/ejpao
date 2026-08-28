@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Eliu 👋
 
-<!--
-**ejpao/ejpao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+College Student | Aspiring Computer Science Major
 
-Here are some ideas to get you started:
+I'm a college student interested in technology, programming, problem-solving, and creative projects. I'm currently building my skills through coursework, personal projects, and hands-on experimentation. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* **Languages:** [Python, C++]
+* **Tools:** Git, GitHub
+* **Currently Learning:** [Networking, Fictional Short Story Editing]
+* **Other:** Problem-solving, teamwork, communication, creative thinking
+
+## Interests
+
+* Software & technology
+* Programming
+* Game development / creative development
+* Artificial intelligence
+* Writing and Editing
+* Learning new technologies
+* Mental and physical well-being
+
+## Currently
+
+I'm focused on **building real projects, expanding my technical skills, and developing a portfolio that demonstrates what I can actually create.**
+
+---
+
+📫 **Contact:** [Professional Email / LinkedIn]
+
+⭐ Thanks for visiting my profile!
